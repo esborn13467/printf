@@ -199,7 +199,7 @@ int write_unsgnd(int is_negative, int ind,
  * write_pointer - Write a memory address
  * @buffer: Arrays of chars
  * @ind: Index at which the number starts in the buffer
- * @length:  Length of number
+ * @length: Length of number
  * @width: Wwidth specifier
  * @flags: Flags specifier
  * @padd: Char representing the padding
